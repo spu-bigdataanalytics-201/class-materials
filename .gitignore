@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my class relate ignores
+my_new_env
+.DS_Store
