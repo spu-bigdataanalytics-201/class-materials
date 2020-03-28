@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # my class relate ignores
+*_env
 my_new_env
 .DS_Store
