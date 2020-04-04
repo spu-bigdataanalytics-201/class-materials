@@ -132,3 +132,4 @@ dmypy.json
 *_env
 my_new_env
 .DS_Store
+data
